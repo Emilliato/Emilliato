@@ -29,6 +29,21 @@ When I'm not coding, you can find me playing games, hiking, reading books or wat
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Emilliato"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Emilliato&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Emilliato">
+  <img src="https://img.shields.io/badge/Total%20Lines%20of%20Code-1M-blue?style=for-the-badge" alt="Total Lines of Code" />
+</a>
+<br>
+
+<a href="http://www.github.com/Emilliato">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emilliato&theme=tokyonight&hide_border=true&stroke=ffffff&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
+</a>
+<a href="http://www.github.com/Emilliato">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emilliato&show_icons=true&theme=tokyonight&hide_border=true&icon_color=0891b2&title_color=ffffff&text_color=ffffff" alt="GitHub Profile Stats" />
+</a>
+<br>
+<a href="http://www.github.com/Emilliato">
+  <img src="https://github-profile-trophy.vercel.app/?username=Emilliato&theme=tokyonight&no-frame=true&margin-w=5&column=6" alt="GitHub Trophies" />
+</a>
+
 
 
